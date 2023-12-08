@@ -11,12 +11,12 @@
 | Extension | Why I use it |
 | --- | ---|
 | [melange-vim](https://github.com/savq/melange-nvim) | my colorscheme | 
-| [vim-airline]("https://github.com/vim-airline/vim-airline") | my colorscheme | 
-| [autosave.vim]("https://github.com/Pocco81/auto-save.nvim") | auto saves my files | 
-| [plenary.vim]("https://github.com/nvim-lua/plenary.nvim") | required for telescope | 
-| [Telescope]("https://github.com/nvim-telescope/telescope.nvim") | Fuzzy finder | 
-| [coc.nvim]("https://github.com/neoclide/coc.nvim") | LSP | 
-| [emmet]("https://github.com/mattn/emmet-vim") | occaisonal web development | 
+| [vim-airline](https://github.com/vim-airline/vim-airline) | my colorscheme | 
+| [autosave.vim](https://github.com/Pocco81/auto-save.nvim) | auto saves my files | 
+| [plenary.vim](https://github.com/nvim-lua/plenary.nvim) | required for telescope | 
+| [Telescope](https://github.com/nvim-telescope/telescope.nvim) | Fuzzy finder | 
+| [coc.nvim](https://github.com/neoclide/coc.nvim) | LSP | 
+| [emmet](https://github.com/mattn/emmet-vim) | occaisonal web development | 
 
 
 ## KEYMAPS
