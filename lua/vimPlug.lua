@@ -9,4 +9,6 @@ vim.call('plug#begin')
 	Plug ('nvim-telescope/telescope.nvim', { tag ='0.1.2' } )
 	Plug ('neoclide/coc.nvim', {branch = 'release'} )
 	Plug 'mattn/emmet-vim' 
+	Plug ('sonph/onehalf', {rtp= 'vim/'})
+	Plug "meatballs/notebook.nvim"
 vim.call('plug#end')
