@@ -11,4 +11,5 @@ vim.call('plug#begin')
 	Plug 'mattn/emmet-vim' 
 	Plug ('sonph/onehalf', {rtp= 'vim/'})
 	Plug "meatballs/notebook.nvim"
+	Plug 'preservim/nerdtree'
 vim.call('plug#end')
